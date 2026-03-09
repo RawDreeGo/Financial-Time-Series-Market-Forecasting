@@ -17,7 +17,8 @@ This project provides a quantitative analysis pipeline built to extract, clean, 
 * **Matplotlib:** Advanced visualization of time-series data, forecast trends, and confidence intervals.
 
 ## 📊 Key Results
-[Insert your best chart here: The forecast plot with the pink shaded 90% confidence interval]
+
+<img width="997" height="530" alt="binance 02" src="https://github.com/user-attachments/assets/4f0082b2-8ac3-44e9-9766-39d84b67e745" />
 
 *The final model’s projection successfully captured market trends, providing stakeholders with a quantitative baseline for future price movement assessment.*
 
